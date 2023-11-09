@@ -25,19 +25,28 @@ header
 .image-recipe
 {
     grid-area: auto;
+    background-color: #D9D9D9;
 }
 
 .image-recipe2
 {
     grid-area: auto;
+    background-color: #D9D9D9;
 }
 
 .image-recipe3
 {
     grid-area: auto;
+    background-color: #D9D9D9;
 }
 
 .image-recipe4
 {
     grid-area: auto;
+    background-color: #D9D9D9;
+}
+
+.recept
+{
+    background-color: #D9D9D9;
 }
