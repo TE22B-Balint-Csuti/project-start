@@ -24,22 +24,20 @@ header
 
 .image-recipe
 {
-    size: 50px;
-    width: 150px;
-    height: 100px;
+    grid-area: auto;
 }
 
 .image-recipe2
 {
-    g
+    grid-area: auto;
 }
 
 .image-recipe3
 {
-    g
+    grid-area: auto;
 }
 
 .image-recipe4
 {
-    g
+    grid-area: auto;
 }
